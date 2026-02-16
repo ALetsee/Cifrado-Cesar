@@ -59,6 +59,7 @@ python Cesar.py
 ```
 git clone https://github.com/ALetsee/Cifrado-Cesar.git
 cd Cifrado-Cesar
+python Cesar.py
 ```
 
 ---
